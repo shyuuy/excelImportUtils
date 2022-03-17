@@ -1,7 +1,7 @@
 // 实际使用并未使用以上工具
 // 只使用了xlsx工具即实现了数组转excel生成文件的下载
 // 1.安装xlsx依赖：cnpm install --save xlsx;
-// 2.如果想自定义样式还需要引入xlsx-style依赖：npm install xlsx-style --save;
+// 2.如果想自定义样式还需要引入xlsx-style依赖：cnpm install xlsx-style --save;
 
 
 
